@@ -1,5 +1,7 @@
 # Sayuri v2.3 - Advanced AI Assistant with Dual-LLM Architecture
 
+![Sayuri Demo](screenshots/sayuri-demo.png)
+
 An intelligent CLI assistant featuring a sophisticated dual-LLM system: one model analyzes intent and context, while another generates personality-driven responses. Includes persistent memory management, structured note-taking, and adaptive conversation flow.
 
 ## 🏗️ Architecture Highlights
