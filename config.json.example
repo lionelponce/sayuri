@@ -1,0 +1,11 @@
+{
+  "api_key": "YOU-GEMINI-API-KEY-HERE",
+  "models": {
+    "intention": "gemma-3-27b-it",
+    "personality": "gemma-3-27b-it"
+  },
+  "prompts": {
+    "intention": "./prompts/intention.txt",
+    "personality": "./prompts/personality.txt"
+  }
+}

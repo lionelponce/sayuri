@@ -1,0 +1,23 @@
+# Configuración con datos sensibles
+config.json
+
+# Bases de datos locales
+databases/
+*.db
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+environment/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
